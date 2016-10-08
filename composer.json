@@ -1,0 +1,19 @@
+{
+    "name": "seven/arm",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nick Wakeman",
+            "email": "nick.wakeman@gmail.com",
+            "role": "Architect, Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4" : {
+            "Arm\\" : "src"
+        }
+    },
+    "require": {
+        "php" : "^5.5"
+    }
+}
